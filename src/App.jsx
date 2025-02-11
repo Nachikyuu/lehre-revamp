@@ -12,6 +12,7 @@ function App() {
       <Area>Aktuelles Semester</Area>
 
       <Area>Alle Semester</Area>
+      <Footer></Footer>
     </>
   )
 }
