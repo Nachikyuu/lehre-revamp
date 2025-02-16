@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import './Footer.css';
 
 const Footer = () => {
   return (
-    <div>Footer test</div>
+    <div className='footer-div'>2018-2025 Institut für Digital Humanities, Universität zu Köln | Impressum</div>
   )
 }
 
